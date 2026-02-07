@@ -1,0 +1,32 @@
+# Executive Summary: Monte Carlo Simulation of Silver Prices in INR
+
+## 1. Historical Analysis (2015 - Present)
+- **Annualized Volatility:** 29.45%
+- **Mean Daily Return:** 0.00064
+- **Maximum Drawdown:** -43.73%
+- **Sharpe Ratio:** 0.55
+- **Latest Price (as of analysis):** 201.75 INR/Gram
+
+## 2. Monte Carlo Simulation Results (1-Year Forecast)
+Based on 10000 simulations over 252 trading days:
+
+### Price Predictions:
+- **Mean Predicted Price:** 238.14 INR/Gram
+- **Median Predicted Price:** 227.97 INR/Gram
+- **Confidence Interval (90%):** The price is expected to be between 141.40 and 369.84 INR/Gram.
+
+### Risk Assessment:
+- **Value at Risk (VaR 95%):** There is a 5% chance of losing at least 29.91% of the investment.
+- **Conditional VaR (CVaR 95%):** In the worst 5% of scenarios, the average loss is 38.05%.
+- **Probability of Loss:** There is a 33.90% chance the price will be lower than the current price in one year.
+
+### Potential Upside:
+- **Probability of >10% Gain:** 53.77%
+- **Probability of >20% Gain:** 41.98%
+
+## 3. Investment Recommendations & Insights
+- **Expected Return:** The simulation forecasts an expected return of 18.04% over the next year.
+- **Volatility:** The forecasted price distribution shows a standard deviation of 71.75, indicating the potential range of outcomes.
+- **Insight:** Based on the historical trend and simulation, [Your interpretation here, e.g., "silver shows a positive expected return, but investors should be aware of the significant downside risk as indicated by the VaR and the wide confidence interval."]
+
+This analysis is based on historical data and models with inherent assumptions. It should not be considered as financial advice.
